@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next';
 import { fadeInUp, slideInRight, staggerContainer } from '../../lib/animations';
 
 export const Hero = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   
   return (
     <section id="home" className="relative pt-32 pb-20 md:pt-40 md:pb-28 overflow-hidden bg-gradient-to-br from-blue-50 to-white">

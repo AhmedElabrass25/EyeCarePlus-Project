@@ -4,7 +4,7 @@ import { Button } from '../ui/Button';
 import { Award, GraduationCap, Star } from 'lucide-react';
 
 import { motion } from 'framer-motion';
-import { fadeInUp, slideInLeft, slideInRight } from '../../lib/animations';
+import {slideInLeft, slideInRight } from '../../lib/animations';
 
 export const About = () => {
   return (
