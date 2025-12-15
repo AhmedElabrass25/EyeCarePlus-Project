@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "contact": "Contact",
+    "book_appointment": "Book Appointment"
+  },
+  "hero": {
+    "rated_badge": "#1 Rated Eye Clinic in Cityville",
+    "title_1": "Expert Eye Care",
+    "title_2": "You Can Trust",
+    "description": "Comprehensive eye checkups, vision correction, and advanced treatment options tailored to your specific needs.",
+    "book_appointment": "Book Appointment",
+    "contact_us": "Contact Us",
+    "available_today": "Available Today",
+    "insurance_accepted": "Insurance Accepted"
+  }
+}
